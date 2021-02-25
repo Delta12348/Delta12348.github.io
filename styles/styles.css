@@ -3,7 +3,7 @@ body{
     font-family: 'Raleway', sans-serif;
     line-height: 2.5em;
     font-weight: 900;
-    background-image: url("https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fi.ytimg.com%2Fvi%2FKFNxdXEe0Ko%2Fmaxresdefault.jpg&f=1&nofb=1");
+    background-image: url("../images/background.jpeg");
 }
 h1{
     text-align: center;
@@ -92,6 +92,14 @@ img{
     flex-wrap: wrap;
     align-items: stretch;
     width: 100%;
+}
+.background-effect{
+    position: relative;
+    display: block;
+    box-sizing: border-box;
+    height: 500px;
+    background-color: #7b75d1;
+    clip-path: ellipse(219% 100% at -103.79% 0%);
 }
 
 
