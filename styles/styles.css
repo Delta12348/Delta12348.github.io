@@ -93,13 +93,6 @@ img{
     align-items: stretch;
     width: 100%;
 }
-.background-effect{
-    position: relative;
-    display: block;
-    box-sizing: border-box;
-    height: 500px;
-    background-color: #7b75d1;
-    clip-path: ellipse(219% 100% at -103.79% 0%);
-}
+
 
 
